@@ -8,4 +8,4 @@ public class DataBaseProperty {
 	static final public String DB_USERNAME = "SeTeamC";
 
 	static final public String DB_PASSWORD = "SeTeamC";
-}
+};
