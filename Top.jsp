@@ -19,5 +19,6 @@
 <body>
 ようこそ<%=user.getName() %>さん！
 
+
 </body>
 </html>
